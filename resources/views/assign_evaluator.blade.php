@@ -16,7 +16,8 @@
         <header>
             <nav class="navbar fixed-top navbar-expand-lg bg-light border-bottom border-bottom-dark" data-bs-theme="light" >
               <div class="container-fluid">
-                <a class="navbar-brand" href="/"><img src="{{url('frontend/images/logo.gif')}}" alt="" height="50px" width="50px"> NIT RAIPUR</a>                <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+              <a class="navbar-brand" href="/"> NIT WARANGAL</a>
+                     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                   <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
                       <a class="nav-link active" href="/admin/dashboard">Admin Dashboard</a>

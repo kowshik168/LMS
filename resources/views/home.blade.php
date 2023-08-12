@@ -23,7 +23,9 @@
         <header>
             <nav class="navbar fixed-top navbar-expand-lg bg-light border-bottom border-bottom-dark" data-bs-theme="light" >
               <div class="container-fluid">
-                <a class="navbar-brand" href="/"><img src="{{url('frontend/images/logo.gif')}}" alt="" height="50px" width="50px"> NIT RAIPUR</a>
+              <a class="navbar-brand" href="/">
+  NIT WARANGAL
+</a>
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                   <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
@@ -213,18 +215,18 @@
 
         <div class="footer-left">
           <i class="bi bi-geo-alt-fill"></i><br>
-          <p>Raipur Chhattisgarh, India</p>
+          <p>WARANGAL, India</p>
         </div>
     
         <div class="footer-center">
             <div>
                 <i class="bi bi-phone"></i><br>
-                <p>+91 1234567890</p>
+                <p>+91 8555947261</p>
             </div>
         </div>
         <div class="footer-right">
                 <i class="bi bi-envelope"></i><br>
-                <p>someone@yahoomail.com</p>
+                <p>kowshik664@gmail.com</p>
             </p>
         </div>
     </footer>
